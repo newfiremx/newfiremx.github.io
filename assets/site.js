@@ -2,7 +2,8 @@
   // Videos: thumbnail first, YouTube player loads on click.
   document.querySelectorAll("[data-videos]").forEach(function (grid) {
     var limit = parseInt(grid.getAttribute("data-videos"), 10) || 0;
-    var ids = window.NEWFIRE.videos;
+    var lang = document.documentElement.lang === "en" ? "en" : "es";
+    var ids = (window.NEWFIRE.videos[lang] || []).concat(window.NEWFIRE.pendientes || []);
     if (limit) ids = ids.slice(0, limit);
     ids.forEach(function (id) {
       var card = document.createElement("div");
