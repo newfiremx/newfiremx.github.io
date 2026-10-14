@@ -1,25 +1,50 @@
 (function () {
-  var grid = document.querySelector("[data-videos]");
-  if (!grid) return;
-  var limit = parseInt(grid.getAttribute("data-videos"), 10) || 0;
-  var ids = window.NEWFIRE.videos;
-  if (limit) ids = ids.slice(0, limit);
-  ids.forEach(function (id) {
-    var card = document.createElement("div");
-    card.className = "video";
-    var btn = document.createElement("button");
-    btn.type = "button";
-    btn.setAttribute("aria-label", "Play");
-    btn.style.backgroundImage = "url(https://i.ytimg.com/vi/" + id + "/hqdefault.jpg)";
-    btn.addEventListener("click", function () {
-      var f = document.createElement("iframe");
-      f.src = "https://www.youtube-nocookie.com/embed/" + id + "?autoplay=1&rel=0";
-      f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
-      f.allowFullscreen = true;
-      f.title = "YouTube";
-      card.replaceChild(f, btn);
+  // Videos: thumbnail first, YouTube player loads on click.
+  document.querySelectorAll("[data-videos]").forEach(function (grid) {
+    var limit = parseInt(grid.getAttribute("data-videos"), 10) || 0;
+    var ids = window.NEWFIRE.videos;
+    if (limit) ids = ids.slice(0, limit);
+    ids.forEach(function (id) {
+      var card = document.createElement("div");
+      card.className = "video";
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.setAttribute("aria-label", "Play video");
+      btn.style.backgroundImage = "url(https://i.ytimg.com/vi/" + id + "/hqdefault.jpg)";
+      btn.addEventListener("click", function () {
+        var f = document.createElement("iframe");
+        f.src = "https://www.youtube-nocookie.com/embed/" + id + "?autoplay=1&rel=0";
+        f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+        f.allowFullscreen = true;
+        f.title = "YouTube";
+        card.replaceChild(f, btn);
+      });
+      card.appendChild(btn);
+      grid.appendChild(card);
     });
-    card.appendChild(btn);
-    grid.appendChild(card);
   });
+
+  // Resources filter.
+  var chips = document.querySelectorAll(".chip");
+  chips.forEach(function (chip) {
+    chip.addEventListener("click", function () {
+      var cat = chip.getAttribute("data-cat");
+      chips.forEach(function (c) { c.setAttribute("aria-pressed", c === chip ? "true" : "false"); });
+      document.querySelectorAll(".res").forEach(function (card) {
+        card.hidden = cat !== "all" && card.getAttribute("data-cat") !== cat;
+      });
+    });
+  });
+
+  // Contact form: opens the visitor's email app with the message filled in.
+  var form = document.querySelector("form.form");
+  if (form) {
+    var params = new URLSearchParams(location.search);
+    if (params.get("asunto")) form.subject.value = params.get("asunto");
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var body = form.message.value + "\n\n" + form.fullname.value + "\n" + form.email.value + (form.phone.value ? "\n" + form.phone.value : "");
+      location.href = "mailto:info@newfire.mx?subject=" + encodeURIComponent("[newfire.mx] " + form.subject.selectedOptions[0].text) + "&body=" + encodeURIComponent(body);
+    });
+  }
 })();
