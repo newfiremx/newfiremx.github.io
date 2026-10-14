@@ -3,25 +3,32 @@
   document.querySelectorAll("[data-videos]").forEach(function (grid) {
     var limit = parseInt(grid.getAttribute("data-videos"), 10) || 0;
     var lang = document.documentElement.lang === "en" ? "en" : "es";
-    var ids = (window.NEWFIRE.videos[lang] || []).concat(window.NEWFIRE.pendientes || []);
+    var ids = window.NEWFIRE.videos[lang] || [];
     if (limit) ids = ids.slice(0, limit);
-    ids.forEach(function (id) {
+    ids.forEach(function (v) {
+      var id = v.id;
+      var fig = document.createElement("figure");
+      fig.className = "vcard";
       var card = document.createElement("div");
       card.className = "video";
       var btn = document.createElement("button");
       btn.type = "button";
-      btn.setAttribute("aria-label", "Play video");
+      btn.setAttribute("aria-label", v.title);
       btn.style.backgroundImage = "url(https://i.ytimg.com/vi/" + id + "/hqdefault.jpg)";
       btn.addEventListener("click", function () {
         var f = document.createElement("iframe");
         f.src = "https://www.youtube-nocookie.com/embed/" + id + "?autoplay=1&rel=0";
         f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
         f.allowFullscreen = true;
-        f.title = "YouTube";
+        f.title = v.title;
         card.replaceChild(f, btn);
       });
       card.appendChild(btn);
-      grid.appendChild(card);
+      var cap = document.createElement("figcaption");
+      cap.textContent = v.title;
+      fig.appendChild(card);
+      fig.appendChild(cap);
+      grid.appendChild(fig);
     });
   });
 

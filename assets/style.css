@@ -157,3 +157,5 @@ section{padding-block:96px}
 
 :focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.vcard{margin:0;text-align:left}
+.vcard figcaption{margin-top:12px;font:600 16px/1.35 var(--display);color:var(--ink)}
