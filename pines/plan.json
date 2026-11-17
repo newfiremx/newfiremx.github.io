@@ -1668,5 +1668,938 @@
    "board": "1082904741591833434",
    "link": "https://newfire.mx/"
   }
+ ],
+ "ig_description": "Posts de imagen 4:5 para Instagram + Facebook (providers instagram y facebook en un solo post de Metricool; instagramData {type:POST,isAiGenerated:false}, facebookData {type:POST}). 1 post ES a las 13:00 y 1 EN a las 13:30 (America/Tijuana), lunes/miércoles/viernes VERSOS, martes/jueves/sábado ORACIONES. Media = image_base_url + file. Texto = text tal cual. ORACIONES 7 ES ya se publicó el 2026-11-16 como prueba.",
+ "ig_items": [
+  {
+   "date": "2026-11-17",
+   "time": "13:30",
+   "iso": "2026-11-17T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 7,
+   "lang": "EN",
+   "file": "ig/ORACIONES_007_EN_ig.jpg",
+   "text": "\"Jesus, thank You for Your forgiveness. Help me forgive as You have forgiven me. Amen.\" A simple prayer to give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #forgiveness"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "13:00",
+   "iso": "2026-11-18T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 8,
+   "lang": "ES",
+   "file": "ig/VERSOS_008_ES_ig.jpg",
+   "text": "\"Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.\" Mateo 6:33 (Reina-Valera 1909). Aliento de la Biblia para empezar bien tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "13:30",
+   "iso": "2026-11-18T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 8,
+   "lang": "EN",
+   "file": "ig/VERSOS_008_EN_ig.jpg",
+   "text": "\"But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.\" Matthew 6:33 (King James Version). Encouragement from the Bible to start your day well. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "13:00",
+   "iso": "2026-11-19T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 8,
+   "lang": "ES",
+   "file": "ig/ORACIONES_008_ES_ig.jpg",
+   "text": "\"Padre, sana lo que está roto en mí: mi cuerpo, mi corazón y mi esperanza. Amén.\" Dios escucha cada oración, también esta. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #sanidad"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "13:30",
+   "iso": "2026-11-19T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 8,
+   "lang": "EN",
+   "file": "ig/ORACIONES_008_EN_ig.jpg",
+   "text": "\"Father, heal what is broken in me: my body, my heart, and my hope. Amen.\" God hears every prayer, including this one. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #healing"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "13:00",
+   "iso": "2026-11-20T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 9,
+   "lang": "ES",
+   "file": "ig/VERSOS_009_ES_ig.jpg",
+   "text": "\"Este es el día que hizo Jehová: nos gozaremos y alegraremos en él.\" Salmo 118:24 (Reina-Valera 1909). Un versículo de paz y confianza para tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "13:30",
+   "iso": "2026-11-20T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 9,
+   "lang": "EN",
+   "file": "ig/VERSOS_009_EN_ig.jpg",
+   "text": "\"This is the day which the LORD hath made; we will rejoice and be glad in it.\" Psalm 118:24 (King James Version). A verse of peace and trust for your day. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "13:00",
+   "iso": "2026-11-21T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 9,
+   "lang": "ES",
+   "file": "ig/ORACIONES_009_ES_ig.jpg",
+   "text": "\"Señor, líbrame de la ansiedad. Hoy entrego en tus manos todo lo que me preocupa. Amén.\" Una oración corta para empezar o terminar tu día en paz. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #ansiedad"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "13:30",
+   "iso": "2026-11-21T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 9,
+   "lang": "EN",
+   "file": "ig/ORACIONES_009_EN_ig.jpg",
+   "text": "\"Lord, free me from anxiety. Today I place everything that worries me in Your hands. Amen.\" A short prayer to start or end your day in peace. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #anxiety"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "13:00",
+   "iso": "2026-11-23T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 10,
+   "lang": "ES",
+   "file": "ig/VERSOS_010_ES_ig.jpg",
+   "text": "\"No nos cansemos, pues, de hacer bien; que a su tiempo segaremos, si no hubiéremos desmayado.\" Gálatas 6:9 (Reina-Valera 1909). Palabra de Dios para inspirar tu camino hoy. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "13:30",
+   "iso": "2026-11-23T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 10,
+   "lang": "EN",
+   "file": "ig/VERSOS_010_EN_ig.jpg",
+   "text": "\"And let us not be weary in well doing: for in due season we shall reap, if we faint not.\" Galatians 6:9 (King James Version). God's Word to inspire your path today. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "13:00",
+   "iso": "2026-11-24T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 10,
+   "lang": "ES",
+   "file": "ig/ORACIONES_010_ES_ig.jpg",
+   "text": "\"Dios, dame fuerzas cuando me sienta sin ánimo. Tú eres mi roca y mi refugio. Amén.\" Ora conmigo y entrégale tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #fortaleza"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "13:30",
+   "iso": "2026-11-24T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 10,
+   "lang": "EN",
+   "file": "ig/ORACIONES_010_EN_ig.jpg",
+   "text": "\"God, give me strength when I feel weary. You are my rock and my refuge. Amen.\" Pray with me and give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #strength"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "13:00",
+   "iso": "2026-11-25T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 11,
+   "lang": "ES",
+   "file": "ig/VERSOS_011_ES_ig.jpg",
+   "text": "\"Es pues la fe la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven.\" Hebreos 11:1 (Reina-Valera 1909). Un versículo para guardar en el corazón. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "13:30",
+   "iso": "2026-11-25T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 11,
+   "lang": "EN",
+   "file": "ig/VERSOS_011_EN_ig.jpg",
+   "text": "\"Now faith is the substance of things hoped for, the evidence of things not seen.\" Hebrews 11:1 (King James Version). A verse to keep in your heart. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "13:00",
+   "iso": "2026-11-26T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 11,
+   "lang": "ES",
+   "file": "ig/ORACIONES_011_ES_ig.jpg",
+   "text": "\"Padre, gracias por lo que tengo. Enséñame a vivir con un corazón agradecido. Amén.\" Una oración sencilla para entregarle tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #gratitud"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "13:30",
+   "iso": "2026-11-26T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 11,
+   "lang": "EN",
+   "file": "ig/ORACIONES_011_EN_ig.jpg",
+   "text": "\"Father, thank You for what I have. Teach me to live with a grateful heart. Amen.\" A simple prayer to give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #gratitude"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "13:00",
+   "iso": "2026-11-27T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 12,
+   "lang": "ES",
+   "file": "ig/VERSOS_012_ES_ig.jpg",
+   "text": "\"Y si alguno de vosotros tiene falta de sabiduría, demándela a Dios, el cual da a todos abundantemente, y no zahiere; y le será dada.\" Santiago 1:5 (Reina-Valera 1909). Aliento de la Biblia para empezar bien tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "13:30",
+   "iso": "2026-11-27T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 12,
+   "lang": "EN",
+   "file": "ig/VERSOS_012_EN_ig.jpg",
+   "text": "\"If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.\" James 1:5 (King James Version). Encouragement from the Bible to start your day well. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "13:00",
+   "iso": "2026-11-28T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 12,
+   "lang": "ES",
+   "file": "ig/ORACIONES_012_ES_ig.jpg",
+   "text": "\"Señor, protege a los que amo en cada camino. Rodéalos con tu cuidado. Amén.\" Dios escucha cada oración, también esta. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #protección"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "13:30",
+   "iso": "2026-11-28T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 12,
+   "lang": "EN",
+   "file": "ig/ORACIONES_012_EN_ig.jpg",
+   "text": "\"Lord, protect those I love on every road. Surround them with Your care. Amen.\" God hears every prayer, including this one. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #protection"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "13:00",
+   "iso": "2026-11-30T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 13,
+   "lang": "ES",
+   "file": "ig/VERSOS_013_ES_ig.jpg",
+   "text": "\"Y ahora permanecen la fe, la esperanza, y la caridad, estas tres: empero la mayor de ellas es la caridad.\" 1 Corintios 13:13 (Reina-Valera 1909). Un versículo de paz y confianza para tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "13:30",
+   "iso": "2026-11-30T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 13,
+   "lang": "EN",
+   "file": "ig/VERSOS_013_EN_ig.jpg",
+   "text": "\"And now abideth faith, hope, charity, these three; but the greatest of these is charity.\" 1 Corinthians 13:13 (King James Version). A verse of peace and trust for your day. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "13:00",
+   "iso": "2026-12-01T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 13,
+   "lang": "ES",
+   "file": "ig/ORACIONES_013_ES_ig.jpg",
+   "text": "\"Jesús, enséñame a tener paciencia. Que no me falte tu calma cuando todo se complique. Amén.\" Una oración corta para empezar o terminar tu día en paz. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #paciencia"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "13:30",
+   "iso": "2026-12-01T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 13,
+   "lang": "EN",
+   "file": "ig/ORACIONES_013_EN_ig.jpg",
+   "text": "\"Jesus, teach me patience. May I not lack Your calm when everything gets complicated. Amen.\" A short prayer to start or end your day in peace. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #patience"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "13:00",
+   "iso": "2026-12-02T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 14,
+   "lang": "ES",
+   "file": "ig/VERSOS_014_ES_ig.jpg",
+   "text": "\"Así alumbre vuestra luz delante de los hombres, para que vean vuestras obras buenas, y glorifiquen a vuestro Padre que está en los cielos.\" Mateo 5:16 (Reina-Valera 1909). Palabra de Dios para inspirar tu camino hoy. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "13:30",
+   "iso": "2026-12-02T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 14,
+   "lang": "EN",
+   "file": "ig/VERSOS_014_EN_ig.jpg",
+   "text": "\"Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.\" Matthew 5:16 (King James Version). God's Word to inspire your path today. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "13:00",
+   "iso": "2026-12-03T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 14,
+   "lang": "ES",
+   "file": "ig/ORACIONES_014_ES_ig.jpg",
+   "text": "\"Dios, bendice el trabajo de mis manos. Que sea para tu gloria y para ayudar a otros. Amén.\" Ora conmigo y entrégale tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #trabajo"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "13:30",
+   "iso": "2026-12-03T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 14,
+   "lang": "EN",
+   "file": "ig/ORACIONES_014_EN_ig.jpg",
+   "text": "\"God, bless the work of my hands. May it be for Your glory and to help others. Amen.\" Pray with me and give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #work"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "13:00",
+   "iso": "2026-12-04T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 15,
+   "lang": "ES",
+   "file": "ig/VERSOS_015_ES_ig.jpg",
+   "text": "\"Torre fuerte es el nombre de Jehová: a él correrá el justo, y será levantado.\" Proverbios 18:10 (Reina-Valera 1909). Un versículo para guardar en el corazón. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "13:30",
+   "iso": "2026-12-04T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 15,
+   "lang": "EN",
+   "file": "ig/VERSOS_015_EN_ig.jpg",
+   "text": "\"The name of the LORD is a strong tower: the righteous runneth into it, and is safe.\" Proverbs 18:10 (King James Version). A verse to keep in your heart. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "13:00",
+   "iso": "2026-12-05T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 15,
+   "lang": "ES",
+   "file": "ig/ORACIONES_015_ES_ig.jpg",
+   "text": "\"Padre, cuando no entienda tus caminos, ayúdame a confiar en ti. Amén.\" Una oración sencilla para entregarle tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #confianza"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "13:30",
+   "iso": "2026-12-05T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 15,
+   "lang": "EN",
+   "file": "ig/ORACIONES_015_EN_ig.jpg",
+   "text": "\"Father, when I do not understand Your ways, help me to trust You. Amen.\" A simple prayer to give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #trust"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "13:00",
+   "iso": "2026-12-07T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 16,
+   "lang": "ES",
+   "file": "ig/VERSOS_016_ES_ig.jpg",
+   "text": "\"Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti, oh Jehová, roca mía, y redentor mío.\" Salmo 19:14 (Reina-Valera 1909). Aliento de la Biblia para empezar bien tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "13:30",
+   "iso": "2026-12-07T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 16,
+   "lang": "EN",
+   "file": "ig/VERSOS_016_EN_ig.jpg",
+   "text": "\"Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.\" Psalm 19:14 (King James Version). Encouragement from the Bible to start your day well. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "13:00",
+   "iso": "2026-12-08T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 16,
+   "lang": "ES",
+   "file": "ig/ORACIONES_016_ES_ig.jpg",
+   "text": "\"Señor, llena mi casa de tu paz y mi corazón de tu alegría. Amén.\" Dios escucha cada oración, también esta. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #hogar"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "13:30",
+   "iso": "2026-12-08T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 16,
+   "lang": "EN",
+   "file": "ig/ORACIONES_016_EN_ig.jpg",
+   "text": "\"Lord, fill my home with Your peace and my heart with Your joy. Amen.\" God hears every prayer, including this one. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #home"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "13:00",
+   "iso": "2026-12-09T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 17,
+   "lang": "ES",
+   "file": "ig/VERSOS_017_ES_ig.jpg",
+   "text": "\"La paz os dejo, mi paz os doy: no como el mundo la da, yo os la doy. No se turbe vuestro corazón, ni tenga miedo.\" Juan 14:27 (Reina-Valera 1909). Un versículo de paz y confianza para tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "13:30",
+   "iso": "2026-12-09T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 17,
+   "lang": "EN",
+   "file": "ig/VERSOS_017_EN_ig.jpg",
+   "text": "\"Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.\" John 14:27 (King James Version). A verse of peace and trust for your day. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "13:00",
+   "iso": "2026-12-10T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 17,
+   "lang": "ES",
+   "file": "ig/ORACIONES_017_ES_ig.jpg",
+   "text": "\"Dios, haz que mi vida sea una luz para quienes están en la oscuridad. Amén.\" Una oración corta para empezar o terminar tu día en paz. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #luz"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "13:30",
+   "iso": "2026-12-10T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 17,
+   "lang": "EN",
+   "file": "ig/ORACIONES_017_EN_ig.jpg",
+   "text": "\"God, make my life a light for those who are in darkness. Amen.\" A short prayer to start or end your day in peace. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #light"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "13:00",
+   "iso": "2026-12-11T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 18,
+   "lang": "ES",
+   "file": "ig/VERSOS_018_ES_ig.jpg",
+   "text": "\"Y hablóles Jesús otra vez, diciendo: Yo soy la luz del mundo: el que me sigue, no andará en tinieblas, mas tendrá la lumbre de la vida.\" Juan 8:12 (Reina-Valera 1909). Palabra de Dios para inspirar tu camino hoy. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "13:30",
+   "iso": "2026-12-11T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 18,
+   "lang": "EN",
+   "file": "ig/VERSOS_018_EN_ig.jpg",
+   "text": "\"Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.\" John 8:12 (King James Version). God's Word to inspire your path today. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "13:00",
+   "iso": "2026-12-12T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 18,
+   "lang": "ES",
+   "file": "ig/ORACIONES_018_ES_ig.jpg",
+   "text": "\"Padre, tengo una necesidad y te la presento hoy. Confío en que tú me escuchas. Amén.\" Ora conmigo y entrégale tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #necesidad"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "13:30",
+   "iso": "2026-12-12T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 18,
+   "lang": "EN",
+   "file": "ig/ORACIONES_018_EN_ig.jpg",
+   "text": "\"Father, I have a need and I bring it to You today. I trust that You hear me. Amen.\" Pray with me and give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #need"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "13:00",
+   "iso": "2026-12-14T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 19,
+   "lang": "ES",
+   "file": "ig/VERSOS_019_ES_ig.jpg",
+   "text": "\"Y el Dios de esperanza os llene de todo gozo y paz creyendo, para que abundéis en esperanza por la virtud del Espíritu Santo.\" Romanos 15:13 (Reina-Valera 1909). Un versículo para guardar en el corazón. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "13:30",
+   "iso": "2026-12-14T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 19,
+   "lang": "EN",
+   "file": "ig/VERSOS_019_EN_ig.jpg",
+   "text": "\"Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.\" Romans 15:13 (King James Version). A verse to keep in your heart. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "13:00",
+   "iso": "2026-12-15T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 19,
+   "lang": "ES",
+   "file": "ig/ORACIONES_019_ES_ig.jpg",
+   "text": "\"Señor, quita de mí el orgullo y dame un corazón humilde, dispuesto a aprender. Amén.\" Una oración sencilla para entregarle tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #humildad"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "13:30",
+   "iso": "2026-12-15T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 19,
+   "lang": "EN",
+   "file": "ig/ORACIONES_019_EN_ig.jpg",
+   "text": "\"Lord, take pride from me and give me a humble heart, ready to learn. Amen.\" A simple prayer to give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #humility"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "13:00",
+   "iso": "2026-12-16T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 20,
+   "lang": "ES",
+   "file": "ig/VERSOS_020_ES_ig.jpg",
+   "text": "\"Cercano está Jehová a los quebrantados de corazón; y salvará a los contritos de espíritu.\" Salmo 34:18 (Reina-Valera 1909). Aliento de la Biblia para empezar bien tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "13:30",
+   "iso": "2026-12-16T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 20,
+   "lang": "EN",
+   "file": "ig/VERSOS_020_EN_ig.jpg",
+   "text": "\"The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.\" Psalm 34:18 (King James Version). Encouragement from the Bible to start your day well. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "13:00",
+   "iso": "2026-12-17T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 20,
+   "lang": "ES",
+   "file": "ig/ORACIONES_020_ES_ig.jpg",
+   "text": "\"Jesús, gracias por no soltarme nunca. Aun en mis días difíciles, tú sigues conmigo. Amén.\" Dios escucha cada oración, también esta. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #jesús"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "13:30",
+   "iso": "2026-12-17T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 20,
+   "lang": "EN",
+   "file": "ig/ORACIONES_020_EN_ig.jpg",
+   "text": "\"Jesus, thank You for never letting go of me. Even on my hard days, You stay with me. Amen.\" God hears every prayer, including this one. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #jesus"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "13:00",
+   "iso": "2026-12-18T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 21,
+   "lang": "ES",
+   "file": "ig/VERSOS_021_ES_ig.jpg",
+   "text": "\"Porque no nos ha dado Dios el espíritu de temor, sino el de fortaleza, y de amor, y de templanza.\" 2 Timoteo 1:7 (Reina-Valera 1909). Un versículo de paz y confianza para tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "13:30",
+   "iso": "2026-12-18T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 21,
+   "lang": "EN",
+   "file": "ig/VERSOS_021_EN_ig.jpg",
+   "text": "\"For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.\" 2 Timothy 1:7 (King James Version). A verse of peace and trust for your day. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "13:00",
+   "iso": "2026-12-19T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 21,
+   "lang": "ES",
+   "file": "ig/ORACIONES_021_ES_ig.jpg",
+   "text": "\"Dios, bendice a mis amigos y a todos los que me rodean. Que vean tu amor en mí. Amén.\" Una oración corta para empezar o terminar tu día en paz. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #amigos"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "13:30",
+   "iso": "2026-12-19T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 21,
+   "lang": "EN",
+   "file": "ig/ORACIONES_021_EN_ig.jpg",
+   "text": "\"God, bless my friends and everyone around me. May they see Your love in me. Amen.\" A short prayer to start or end your day in peace. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #friends"
+  },
+  {
+   "date": "2026-12-21",
+   "time": "13:00",
+   "iso": "2026-12-21T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 22,
+   "lang": "ES",
+   "file": "ig/VERSOS_022_ES_ig.jpg",
+   "text": "\"A Jehová he puesto siempre delante de mí: porque está a mi diestra no seré conmovido.\" Salmo 16:8 (Reina-Valera 1909). Palabra de Dios para inspirar tu camino hoy. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-21",
+   "time": "13:30",
+   "iso": "2026-12-21T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 22,
+   "lang": "EN",
+   "file": "ig/VERSOS_022_EN_ig.jpg",
+   "text": "\"I have set the LORD always before me: because he is at my right hand, I shall not be moved.\" Psalm 16:8 (King James Version). God's Word to inspire your path today. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-22",
+   "time": "13:00",
+   "iso": "2026-12-22T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 22,
+   "lang": "ES",
+   "file": "ig/ORACIONES_022_ES_ig.jpg",
+   "text": "\"Padre, dame un corazón que perdone, manos que ayuden y labios que bendigan. Amén.\" Ora conmigo y entrégale tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #amor"
+  },
+  {
+   "date": "2026-12-22",
+   "time": "13:30",
+   "iso": "2026-12-22T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 22,
+   "lang": "EN",
+   "file": "ig/ORACIONES_022_EN_ig.jpg",
+   "text": "\"Father, give me a heart that forgives, hands that help, and lips that bless. Amen.\" Pray with me and give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #love"
+  },
+  {
+   "date": "2026-12-23",
+   "time": "13:00",
+   "iso": "2026-12-23T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 23,
+   "lang": "ES",
+   "file": "ig/VERSOS_023_ES_ig.jpg",
+   "text": "\"Sobre toda cosa guardada guarda tu corazón; porque de él mana la vida.\" Proverbios 4:23 (Reina-Valera 1909). Un versículo para guardar en el corazón. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-23",
+   "time": "13:30",
+   "iso": "2026-12-23T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 23,
+   "lang": "EN",
+   "file": "ig/VERSOS_023_EN_ig.jpg",
+   "text": "\"Keep thy heart with all diligence; for out of it are the issues of life.\" Proverbs 4:23 (King James Version). A verse to keep in your heart. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-24",
+   "time": "13:00",
+   "iso": "2026-12-24T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 23,
+   "lang": "ES",
+   "file": "ig/ORACIONES_023_ES_ig.jpg",
+   "text": "\"Señor, esta noche descanso en ti. Cuida mi sueño y renueva mis fuerzas. Amén.\" Una oración sencilla para entregarle tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #noche"
+  },
+  {
+   "date": "2026-12-24",
+   "time": "13:30",
+   "iso": "2026-12-24T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 23,
+   "lang": "EN",
+   "file": "ig/ORACIONES_023_EN_ig.jpg",
+   "text": "\"Lord, tonight I rest in You. Watch over my sleep and renew my strength. Amen.\" A simple prayer to give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #night"
+  },
+  {
+   "date": "2026-12-25",
+   "time": "13:00",
+   "iso": "2026-12-25T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 24,
+   "lang": "ES",
+   "file": "ig/VERSOS_024_ES_ig.jpg",
+   "text": "\"Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.\" Mateo 7:7 (Reina-Valera 1909). Aliento de la Biblia para empezar bien tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-25",
+   "time": "13:30",
+   "iso": "2026-12-25T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 24,
+   "lang": "EN",
+   "file": "ig/VERSOS_024_EN_ig.jpg",
+   "text": "\"Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:\" Matthew 7:7 (King James Version). Encouragement from the Bible to start your day well. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-26",
+   "time": "13:00",
+   "iso": "2026-12-26T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 24,
+   "lang": "ES",
+   "file": "ig/ORACIONES_024_ES_ig.jpg",
+   "text": "\"Dios, aumenta mi fe. Que crea en tus promesas aunque aún no vea el resultado. Amén.\" Dios escucha cada oración, también esta. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #fe"
+  },
+  {
+   "date": "2026-12-26",
+   "time": "13:30",
+   "iso": "2026-12-26T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 24,
+   "lang": "EN",
+   "file": "ig/ORACIONES_024_EN_ig.jpg",
+   "text": "\"God, increase my faith. Let me believe Your promises even before I see the result. Amen.\" God hears every prayer, including this one. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #faith"
+  },
+  {
+   "date": "2026-12-28",
+   "time": "13:00",
+   "iso": "2026-12-28T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 25,
+   "lang": "ES",
+   "file": "ig/VERSOS_025_ES_ig.jpg",
+   "text": "\"La blanda respuesta quita la ira: mas la palabra áspera hace subir el furor.\" Proverbios 15:1 (Reina-Valera 1909). Un versículo de paz y confianza para tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-28",
+   "time": "13:30",
+   "iso": "2026-12-28T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 25,
+   "lang": "EN",
+   "file": "ig/VERSOS_025_EN_ig.jpg",
+   "text": "\"A soft answer turneth away wrath: but grievous words stir up anger.\" Proverbs 15:1 (King James Version). A verse of peace and trust for your day. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-29",
+   "time": "13:00",
+   "iso": "2026-12-29T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 25,
+   "lang": "ES",
+   "file": "ig/ORACIONES_025_ES_ig.jpg",
+   "text": "\"Padre, te pido por mi país y por quienes nos gobiernan. Dales sabiduría y justicia. Amén.\" Una oración corta para empezar o terminar tu día en paz. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #país"
+  },
+  {
+   "date": "2026-12-29",
+   "time": "13:30",
+   "iso": "2026-12-29T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 25,
+   "lang": "EN",
+   "file": "ig/ORACIONES_025_EN_ig.jpg",
+   "text": "\"Father, I pray for my country and those who lead us. Give them wisdom and justice. Amen.\" A short prayer to start or end your day in peace. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #nation"
+  },
+  {
+   "date": "2026-12-30",
+   "time": "13:00",
+   "iso": "2026-12-30T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 26,
+   "lang": "ES",
+   "file": "ig/VERSOS_026_ES_ig.jpg",
+   "text": "\"El corazón alegre produce buena disposición: mas el espíritu triste seca los huesos.\" Proverbios 17:22 (Reina-Valera 1909). Palabra de Dios para inspirar tu camino hoy. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2026-12-30",
+   "time": "13:30",
+   "iso": "2026-12-30T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 26,
+   "lang": "EN",
+   "file": "ig/VERSOS_026_EN_ig.jpg",
+   "text": "\"A merry heart doeth good like a medicine: but a broken spirit drieth the bones.\" Proverbs 17:22 (King James Version). God's Word to inspire your path today. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2026-12-31",
+   "time": "13:00",
+   "iso": "2026-12-31T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 26,
+   "lang": "ES",
+   "file": "ig/ORACIONES_026_ES_ig.jpg",
+   "text": "\"Jesús, hoy quiero escucharte más. Calla el ruido a mi alrededor y habla a mi corazón. Amén.\" Ora conmigo y entrégale tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #escucharte"
+  },
+  {
+   "date": "2026-12-31",
+   "time": "13:30",
+   "iso": "2026-12-31T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 26,
+   "lang": "EN",
+   "file": "ig/ORACIONES_026_EN_ig.jpg",
+   "text": "\"Jesus, today I want to hear You more. Quiet the noise around me and speak to my heart. Amen.\" Pray with me and give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #listening"
+  },
+  {
+   "date": "2027-01-01",
+   "time": "13:00",
+   "iso": "2027-01-01T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 27,
+   "lang": "ES",
+   "file": "ig/VERSOS_027_ES_ig.jpg",
+   "text": "\"Porque ninguna cosa es imposible para Dios.\" Lucas 1:37 (Reina-Valera 1909). Un versículo para guardar en el corazón. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2027-01-01",
+   "time": "13:30",
+   "iso": "2027-01-01T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 27,
+   "lang": "EN",
+   "file": "ig/VERSOS_027_EN_ig.jpg",
+   "text": "\"For with God nothing shall be impossible.\" Luke 1:37 (King James Version). A verse to keep in your heart. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2027-01-02",
+   "time": "13:00",
+   "iso": "2027-01-02T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 27,
+   "lang": "ES",
+   "file": "ig/ORACIONES_027_ES_ig.jpg",
+   "text": "\"Señor, ayúdame a empezar de nuevo. Tu misericordia es nueva cada mañana. Amén.\" Una oración sencilla para entregarle tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #nuevocomienzo"
+  },
+  {
+   "date": "2027-01-02",
+   "time": "13:30",
+   "iso": "2027-01-02T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 27,
+   "lang": "EN",
+   "file": "ig/ORACIONES_027_EN_ig.jpg",
+   "text": "\"Lord, help me start again. Your mercy is new every morning. Amen.\" A simple prayer to give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #newbeginning"
+  },
+  {
+   "date": "2027-01-04",
+   "time": "13:00",
+   "iso": "2027-01-04T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 28,
+   "lang": "ES",
+   "file": "ig/VERSOS_028_ES_ig.jpg",
+   "text": "\"Y Jesús le dijo: Si puedes creer, al que cree todo es posible.\" Marcos 9:23 (Reina-Valera 1909). Aliento de la Biblia para empezar bien tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2027-01-04",
+   "time": "13:30",
+   "iso": "2027-01-04T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 28,
+   "lang": "EN",
+   "file": "ig/VERSOS_028_EN_ig.jpg",
+   "text": "\"Jesus said unto him, If thou canst believe, all things are possible to him that believeth.\" Mark 9:23 (King James Version). Encouragement from the Bible to start your day well. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2027-01-05",
+   "time": "13:00",
+   "iso": "2027-01-05T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 28,
+   "lang": "ES",
+   "file": "ig/ORACIONES_028_ES_ig.jpg",
+   "text": "\"Dios, consuela a quien hoy está llorando. Sé su refugio y su esperanza. Amén.\" Dios escucha cada oración, también esta. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #consuelo"
+  },
+  {
+   "date": "2027-01-05",
+   "time": "13:30",
+   "iso": "2027-01-05T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 28,
+   "lang": "EN",
+   "file": "ig/ORACIONES_028_EN_ig.jpg",
+   "text": "\"God, comfort the one who is weeping today. Be their refuge and their hope. Amen.\" God hears every prayer, including this one. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #comfort"
+  },
+  {
+   "date": "2027-01-06",
+   "time": "13:00",
+   "iso": "2027-01-06T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 29,
+   "lang": "ES",
+   "file": "ig/VERSOS_029_ES_ig.jpg",
+   "text": "\"Enséñanos de tal modo a contar nuestros días, que traigamos al corazón sabiduría.\" Salmo 90:12 (Reina-Valera 1909). Un versículo de paz y confianza para tu día. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2027-01-06",
+   "time": "13:30",
+   "iso": "2027-01-06T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 29,
+   "lang": "EN",
+   "file": "ig/VERSOS_029_EN_ig.jpg",
+   "text": "\"So teach us to number our days, that we may apply our hearts unto wisdom.\" Psalm 90:12 (King James Version). A verse of peace and trust for your day. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2027-01-07",
+   "time": "13:00",
+   "iso": "2027-01-07T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 29,
+   "lang": "ES",
+   "file": "ig/ORACIONES_029_ES_ig.jpg",
+   "text": "\"Padre, dame valentía para hablar de ti con amor y con verdad. Amén.\" Una oración corta para empezar o terminar tu día en paz. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #testimonio"
+  },
+  {
+   "date": "2027-01-07",
+   "time": "13:30",
+   "iso": "2027-01-07T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 29,
+   "lang": "EN",
+   "file": "ig/ORACIONES_029_EN_ig.jpg",
+   "text": "\"Father, give me courage to speak of You with love and truth. Amen.\" A short prayer to start or end your day in peace. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #boldness"
+  },
+  {
+   "date": "2027-01-08",
+   "time": "13:00",
+   "iso": "2027-01-08T13:00:00-08:00",
+   "folder": "VERSOS",
+   "n": 30,
+   "lang": "ES",
+   "file": "ig/VERSOS_030_ES_ig.jpg",
+   "text": "\"Todas vuestras cosas sean hechas con caridad.\" 1 Corintios 16:14 (Reina-Valera 1909). Palabra de Dios para inspirar tu camino hoy. Guárdalo y compártelo con alguien que lo necesite. #versículos #biblia #palabradedios #fe #inspiración"
+  },
+  {
+   "date": "2027-01-08",
+   "time": "13:30",
+   "iso": "2027-01-08T13:30:00-08:00",
+   "folder": "VERSOS",
+   "n": 30,
+   "lang": "EN",
+   "file": "ig/VERSOS_030_EN_ig.jpg",
+   "text": "\"Let all your things be done with charity.\" 1 Corinthians 16:14 (King James Version). God's Word to inspire your path today. Save it and share it with someone who needs it. #bibleverse #scripture #faith #inspiration #christianliving"
+  },
+  {
+   "date": "2027-01-09",
+   "time": "13:00",
+   "iso": "2027-01-09T13:00:00-08:00",
+   "folder": "ORACIONES",
+   "n": 30,
+   "lang": "ES",
+   "file": "ig/ORACIONES_030_ES_ig.jpg",
+   "text": "\"Señor, gracias por escuchar mi oración. Me voy en paz, sabiendo que tú tienes el control. Amén.\" Ora conmigo y entrégale tu día a Dios. Guárdala y compártela con alguien que la necesite. #oración #oracióncristiana #oracióndeldía #fe #descanso"
+  },
+  {
+   "date": "2027-01-09",
+   "time": "13:30",
+   "iso": "2027-01-09T13:30:00-08:00",
+   "folder": "ORACIONES",
+   "n": 30,
+   "lang": "EN",
+   "file": "ig/ORACIONES_030_EN_ig.jpg",
+   "text": "\"Lord, thank You for hearing my prayer. I leave in peace, knowing You are in control. Amen.\" Pray with me and give your day to God. Save it and share it with someone who needs it. #prayer #christianprayer #prayeroftheday #faith #surrender"
+  }
  ]
 }
